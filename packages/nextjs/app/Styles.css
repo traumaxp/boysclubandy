@@ -1,0 +1,9 @@
+.large-gif {
+    min-width: 700px; /* Ajustez cette valeur selon vos besoins */
+    max-height: auto; /* Maintient le ratio d'aspect */
+  }
+
+
+.bg-transparent {
+    background-color: transparent;
+  }
