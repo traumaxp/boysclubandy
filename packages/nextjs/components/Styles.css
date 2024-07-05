@@ -9,3 +9,15 @@
   align-items: center;
   position: relative;
 }
+
+.header-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 20px 0; /* Ajustez le padding selon vos besoins */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 20px 0; /* Ajustez le padding selon vos besoins */
+}
